@@ -5,36 +5,21 @@ This github will host my primary projects I (and my team/classmates) have comple
 
 I'm also actively seeking employment as an entry level data scientist! If at all interested in contacting me, please message me through LinkedIn at https://www.linkedin.com/in/cryanbass/.
 
-========================================================================================================================================
-========================================================================================================================================
 
 My classes per semester:
+
 Fall 2019 -   Capstone B
 
-Summer 2019 - Natural Language Processing
-							
-              Capstone A
+Summer 2019 - Natural Language Processing, Capstone A
 
-Spring 2019 - Machine Learning
+Spring 2019 - Machine Learning, Quantifying the World
               
-              Quantifying the World
+Fall 2018 -   Data Mining: An Introduction to Data Mining and Related Topics, Visualization of Information
               
-Fall 2018 -   Data Mining: An Introduction to Data Mining and Related Topics
+Summer 2018 - Applied Statistics: Inference and Modeling, Data and Network Security, File Organization and Database Management
               
-              Visualization of Information
-              
-Summer 2018 - Applied Statistics: Inference and Modeling
-              
-              Data and Network Security
-              
-              File Organization and Database Management
-              
-Spring 2018 - Statistical Foundations for Data Science
-              
-              Doing Data Science
+Spring 2018 - Statistical Foundations for Data Science, Doing Data Science
 
-========================================================================================================================================
-========================================================================================================================================
 
 My citations and links to my previous publications while at the University of Texas at Austin:
 Burke, J. M., Bass, C. R., Kincaid, R. P., & Sullivan, C. S. (2014). Identification of tri-phosphatase activity in the biogenesis of retroviral microRNAs and RNAP III-generated shRNAs. Nucleic acids research, 42(22), 13949-62.
