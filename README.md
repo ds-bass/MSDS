@@ -22,6 +22,7 @@ Spring 2018 - Statistical Foundations for Data Science, Doing Data Science
 
 
 My citations and links to my previous publications while at the University of Texas at Austin:
+
 Burke, J. M., Bass, C. R., Kincaid, R. P., & Sullivan, C. S. (2014). Identification of tri-phosphatase activity in the biogenesis of retroviral microRNAs and RNAP III-generated shRNAs. Nucleic acids research, 42(22), 13949-62.
 Link here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267658/
 
