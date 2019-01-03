@@ -1,7 +1,9 @@
 # Masters of Science in Data Science
 Hello world!
 
-This github will host my primary projects I (and my team/classmates) have completed throughout my Masters of Science in Data Science program at SMU. Previously I was a molecular biologist and lab manager for several academic, state, and federal labs. My frequent use of critical analysis for conducting experiments and troubleshooting problems in molecular biology have helped my transition into my new career. The program at SMU has given me experience in statistical and machine learning model creation in Python, R, and SAS. I'm continuing to obtain deeper understanding of the topics I've covered in the program through other textbooks and various resources online. I'm currently most interested in machine learning algorithms and how I can implement them for business needs and potential future academic papers in the future.
+This github will host my primary projects I (and my team/classmates) have completed throughout my Masters of Science in Data Science program at SMU.
+
+Previously I was a molecular biologist and lab manager for several academic, state, and federal labs. My frequent use of critical analysis for conducting experiments and troubleshooting problems in molecular biology have helped my transition into my new career. The program at SMU has given me experience in statistical and machine learning model creation in Python, R, and SAS. I'm also continuing to obtain deeper understanding of the topics I've covered in the program through other textbooks and various resources online. I'm currently most interested in machine learning algorithms and how I can implement them for business needs and potential future academic papers in the future.
 
 I'm also actively seeking employment as an entry level data scientist! If at all interested in contacting me, please message me through LinkedIn at https://www.linkedin.com/in/cryanbass/.
 
