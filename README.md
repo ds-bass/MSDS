@@ -6,7 +6,7 @@ This github will host my primary projects I (and my team/classmates) have comple
 I'm also actively seeking employment as an entry level data scientist! If at all interested in contacting me, please message me through LinkedIn at https://www.linkedin.com/in/cryanbass/.
 
 
-##My classes per semester:
+## My classes per semester:
 
 Fall 2019 -   Capstone B
 
@@ -21,7 +21,7 @@ Summer 2018 - Applied Statistics: Inference and Modeling, Data and Network Secur
 Spring 2018 - Statistical Foundations for Data Science, Doing Data Science
 
 
-##My citations and links to my previous publications while at the University of Texas at Austin:
+## My citations and links to my previous publications while at the University of Texas at Austin:
 
 Burke, J. M., Bass, C. R., Kincaid, R. P., & Sullivan, C. S. (2014). Identification of tri-phosphatase activity in the biogenesis of retroviral microRNAs and RNAP III-generated shRNAs. Nucleic acids research, 42(22), 13949-62.
 Link here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267658/
