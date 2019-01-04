@@ -25,6 +25,6 @@ I'm also actively seeking employment as an entry level data scientist! If at all
 
 ### My citations and links to my previous publications while at the University of Texas at Austin:
 
-Burke, J. M., Bass, C. R., Kincaid, R. P., & Sullivan, C. S. (2014). [Identification of tri-phosphatase activity in the biogenesis of retroviral microRNAs and RNAP III-generated shRNAs] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267658/). Nucleic acids research, 42(22), 13949-62.
+Burke, J. M., Bass, C. R., Kincaid, R. P., & Sullivan, C. S. (2014). [Identification of tri-phosphatase activity in the biogenesis of retroviral microRNAs and RNAP III-generated shRNAs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267658/). Nucleic acids research, 42(22), 13949-62.
 
-Burke, J. M., Bass, C. R., Kincaid, R. P., Ulug, E.T., & Sullivan, C. S. (2018). [The Murine Polyomavirus MicroRNA Locus Is Required To Promote Viruria during the Acute Phase of Infection] (https://jvi.asm.org/content/92/16/e02131-17). Journal of Virology. 92(16), e02131-17.
+Burke, J. M., Bass, C. R., Kincaid, R. P., Ulug, E.T., & Sullivan, C. S. (2018). [The Murine Polyomavirus MicroRNA Locus Is Required To Promote Viruria during the Acute Phase of Infection](https://jvi.asm.org/content/92/16/e02131-17). Journal of Virology. 92(16), e02131-17.
