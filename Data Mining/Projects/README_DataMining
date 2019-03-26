@@ -1,17 +1,19 @@
+# Data Mining: An Introduction to Data Mining and Related Topics
+
 Data Mining was a course to introduce the full process of understanding a business need, visualizing and exploring data, preparing data to model, properly applying an appropriate algorithm and optimizing its parameters, and interpreting the model(s). Fundamental modeling techniques using scikit-learn were used. This included splitting the data into training and test datasets, k-fold cross validation, fitting the model, and analyzing the model using appropriate metrics (ex. accuracy, mean absolute error, etc.). Outside of multiple linear regression and logistic regression, I learned about and utilized many new algorithms in these projects. Our most common form of optimization in our models was hyperparameter tuning using RandomizedSearchCV and GridSearchCV.
 
 The algorithms covered in our projects and/or in class were:
-Random Forest
-Support Vector Machines
-k-Nearest Neighbors
-Naive Bayes
-Multiple Linear Regression
-Logistic Regression
-Spectral Clustering
-Gaussian Mixture Models
-K-Means Clustering
-Hierarchical Agglomerative Clustering
-Density Based Clustering (DBSCAN)
+- Random Forest
+- Support Vector Machines
+- k-Nearest Neighbors
+- Naive Bayes
+- Multiple Linear Regression
+- Logistic Regression
+- Spectral Clustering
+- Gaussian Mixture Models
+- K-Means Clustering
+- Hierarchical Agglomerative Clustering
+- Density Based Clustering (DBSCAN)
 
 Data used for the projects can be found at: https://github.com/jakemdrew/EducationDataNC. The dataset included data on North Carolina's public high schools average ACT score per school, and the percentage of graduating students who enrolled in college within 18 months of graduating. 
 
@@ -22,4 +24,3 @@ MiniProject: Used logistic regression and support vector machine classification 
 Project 2: Used k-Nearest Neighbors, Random Forest, and Support Vector Machines regression models to predict ACT scores and college enrollment from NC public high schools.
 
 Project 3: Used Random Forest classification to identify prominent causes (parameters) of schools being in either the top or bottom quartiles of average ACT scores of their students.
-
