@@ -12,9 +12,9 @@ I'm also actively seeking employment as an entry level data scientist! If at all
 
 - [ ] Fall 2019 - Capstone B
 
-- [ ] Summer 2019 - Natural Language Processing, Capstone A
+- [x] Summer 2019 - Natural Language Processing, Capstone A
 
-- [ ] Spring 2019 - Machine Learning, Quantifying the World
+- [x] Spring 2019 - Machine Learning, Quantifying the World
               
 - [x] Fall 2018 - Data Mining: An Introduction to Data Mining and Related Topics, Visualization of Information
               
